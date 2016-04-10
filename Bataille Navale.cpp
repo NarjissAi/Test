@@ -3,6 +3,9 @@
 #include <time.h>
 #include <stdio.h>
 
+// tester les changements sur git
+
+
 int i,j; /*Variable pour les boucles & recherches dans les tableaux*/
 int col;/*Variable colonne*/
 int lig;/*Variable Ligne*/
